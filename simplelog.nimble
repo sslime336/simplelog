@@ -1,8 +1,8 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.1.1"
 author        = "sslime336"
-description   = "A deadly simply log package supporting very simple colorful logging."
+description   = "A deadly simple log package supporting very simple colorful logging."
 license       = "MIT"
 srcDir        = "src"
 
