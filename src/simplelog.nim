@@ -1,5 +1,4 @@
-import std / [strformat, terminal]
-import std / macros
+import std / [terminal, macros]
 
 {.hint[XDeclaredButNotUsed]: off.}
 
